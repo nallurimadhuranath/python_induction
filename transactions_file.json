@@ -1,0 +1,4 @@
+deposit:amount=500,balance=1500
+withdraw:amount=300,balance=1200
+interest:amount=60.0,balance=1260.0
+withdraw:amount=600,balance=-100
